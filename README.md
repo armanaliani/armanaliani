@@ -1,6 +1,7 @@
 ### Hi, I'm Arman 👋
 
-![alt text](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fhdfkqxbcmpe61.gif)
+![alt text](https://github.com/armanaliani/armanaliani/assets/61896630/06c8d1ab-1e93-4894-a3fc-b615fb9345f9)
+
 
 Leveraging my programming skills as a Front-end Developer to dive into the world of Data Science
 
