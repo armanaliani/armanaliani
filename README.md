@@ -1,8 +1,5 @@
 ### Hi, I'm Arman 👋
 
-![alt text](https://github.com/armanaliani/armanaliani/assets/61896630/06c8d1ab-1e93-4894-a3fc-b615fb9345f9)
-
-
 Leveraging my programming skills as a Front-end Developer to dive into the world of Data Science
 
 #### Project Highlights:
@@ -31,3 +28,5 @@ C.R.U.D app Built using React and Firebase, with nested data architecture for co
 Thanks for stopping by
 
 [Connect on Linkedin](https://www.linkedin.com/in/arman-aliani/)
+
+![alt text](https://github.com/armanaliani/armanaliani/assets/61896630/06c8d1ab-1e93-4894-a3fc-b615fb9345f9)
