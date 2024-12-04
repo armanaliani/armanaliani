@@ -1,7 +1,5 @@
 ### Hi, I'm Arman 👋
 
-Leveraging my programming skills as a Front-end Developer to dive into the world of Data Science
-
 #### Project Highlights:
 
 
